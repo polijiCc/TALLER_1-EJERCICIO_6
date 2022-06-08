@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE listacursos SYSTEM "Ejercicio-6.dtd">
+<listacursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="Ejercicio-6.xsd">
+    <curso>
+        <!--Alumno 1-->
+        <alumno>
+            <DNI>123456789</DNI>
+            <primernombre>yaider</primernombre>
+            <primerapellido>cordoba</primerapellido>
+            <segundoapellido>cordoba</segundoapellido>
+            <asignaturas>
+                <asignatura>
+                    <codigo>1</codigo>
+                    <nombre>cesw3</nombre>
+                    <profesor>
+                        <NRP>11222</NRP>
+                        <primernombre>oscar</primernombre>
+                        <primerapellido>mesa</primerapellido>
+                    </profesor>
+                </asignatura>
+                <asignatura>
+                    <codigo>2</codigo>
+                    <nombre>diseño del sistema</nombre>
+                    <profesor>
+                        <NRP>2</NRP>
+                        <primernombre>carlos</primernombre>
+                        <segundonombre>alberto</segundonombre>
+                        <primerapellido>builes</primerapellido>
+                    </profesor>
+                </asignatura>
+            </asignaturas>
+        </alumno>
+        <!--Alumno 2-->
+        <alumno>
+            <DNI>123456788</DNI>
+            <primernombre>sebastian</primernombre>
+            <primerapellido>arenas</primerapellido>
+            <segundoapellido>borja</segundoapellido>
+            <asignaturas>
+                <asignatura>
+                    <codigo>1</codigo>
+                    <nombre>cesw3</nombre>
+                    <profesor>
+                        <NRP>11222</NRP>
+                        <primernombre>oscar</primernombre>
+                        <primerapellido>mesa</primerapellido>
+                    </profesor>
+                </asignatura>
+                <asignatura>
+                    <codigo>2</codigo>
+                    <nombre>diseño del sistema</nombre>
+                    <profesor>
+                        <NRP>2</NRP>
+                        <primernombre>carlos</primernombre>
+                        <segundonombre>alberto</segundonombre>
+                        <primerapellido>builes</primerapellido>
+                    </profesor>
+                </asignatura>
+            </asignaturas>
+        </alumno>
+    </curso>
+</listacursos>
